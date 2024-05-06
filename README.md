@@ -11,5 +11,7 @@ It will search another song through the automated code & this also played
 ![image](https://github.com/sunega2882/wynk-music/assets/168071016/befa05d8-2b9a-4467-8a2d-8d4315a87c68)
 Another one last song is **'Ranjithamey'**
 ![search thrid](https://github.com/sunega2882/wynk-music/assets/168071016/34d09ebf-d2ed-4a42-9c99-0de0381f5797)
+TestNG & console
+![image](https://github.com/sunega2882/wynk-music/assets/168071016/4f294df5-d062-4545-b66a-db9e6a839bb2)
 
 
